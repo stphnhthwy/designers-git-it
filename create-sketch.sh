@@ -1,6 +1,6 @@
 #!/bin/sh
 
-files="example" # add a new file like this: "file1 file2 file3"
+files="example"  # add a new file like this: "example, example-1, example-2"
 for f in $files
 do
   # Zip core Sketch data
